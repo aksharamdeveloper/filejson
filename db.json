@@ -1,1 +1,24 @@
-
+{
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-1025648175167081~6353058692",
+         "banner_id":"ca-app-pub-1025648175167081/4536579990",
+         "interstitial_id":"ca-app-pub-1025648175167081/5350134061",
+         "native_id":"ca-app-pub-1025648175167081/4037052399",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "banner_id":"877811789457040_893595841211968",
+         "interstitial_id":"877811789457040_877812439456975",
+          "interstitial_id1":"474046773765576_474500777053509",
+          "interstitial_id2":"877811789457040_893597194545166",
+         "native_id":"877811789457040_877812589456960",
+         "native_banner_id":"877811789457040_893596407878578",
+         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "status":"true",
+         "splash_ads":"false"
+      }
+   ]
+}
